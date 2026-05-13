@@ -1,0 +1,1 @@
+print("\thi\n\tbye")
