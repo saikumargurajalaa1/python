@@ -1,0 +1,308 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_14-05-2026_19_13__1_to_10_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_14-05-2026_19_13__1_to_10_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_14-05-2026_19_13__1_to_10_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_14-05-2026_19_13__1_to_10_.xml	(revision d501e0a508023ee0e8253ec2064225d07fb58bc6)
++++ /dev/null	(revision d501e0a508023ee0e8253ec2064225d07fb58bc6)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_14-05-2026_19_13_[1_to_10]" date="1778766182145" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14-05-2026_19_13_[1_to_10]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 14-05-2026 19:13 [1 to 10]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/vcs.xml
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+deleted file mode 100644
+--- a/.idea/vcs.xml	(revision d501e0a508023ee0e8253ec2064225d07fb58bc6)
++++ /dev/null	(revision d501e0a508023ee0e8253ec2064225d07fb58bc6)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/profiles_settings.xml
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/.idea/inspectionProfiles/profiles_settings.xml	(revision d501e0a508023ee0e8253ec2064225d07fb58bc6)
++++ /dev/null	(revision d501e0a508023ee0e8253ec2064225d07fb58bc6)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: .idea/misc.xml
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+deleted file mode 100644
+--- a/.idea/misc.xml	(revision d501e0a508023ee0e8253ec2064225d07fb58bc6)
++++ /dev/null	(revision d501e0a508023ee0e8253ec2064225d07fb58bc6)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Black">
+-    <option name="sdkName" value="Python 3.13 (sai) (2)" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_14-05-2026_19_13_[1_to_10]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_14-05-2026_19_13_[1_to_10]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_14-05-2026_19_13_[1_to_10]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_14-05-2026_19_13_[1_to_10]/shelved.patch	(revision d501e0a508023ee0e8253ec2064225d07fb58bc6)
++++ /dev/null	(revision d501e0a508023ee0e8253ec2064225d07fb58bc6)
+@@ -1,11 +0,0 @@
+-Index: if_else/perimeterOfsquare.py
+-===================================================================
+-diff --git a/if_else/perimeterOfsquare.py b/if_else/perimeterOfsquare.py
+-deleted file mode 100644
+---- a/if_else/perimeterOfsquare.py	(revision dcec9592a1900b5109aa7eed46ae1d9737a64700)
+-+++ /dev/null	(revision dcec9592a1900b5109aa7eed46ae1d9737a64700)
+-@@ -1,3 +0,0 @@
+--a=int(input("enter a value"))
+--square=4*a
+--print("perimeter of square is",square)
+-\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"2f31b0b4-81d3-4374-bed5-b45b2670bb66\" name=\"1 to 10\" comment=\"1 to 10\">\r\n      <change beforePath=\"$PROJECT_DIR$/functions/calling one in another.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/functions/calling one in another.py\" afterDir=\"false\" />\r\n    </list>\r\n    <list id=\"9191aac6-0ce7-4c8b-82f5-f01825228bf5\" name=\"Changes\" comment=\"First commit: Problem solving - 1\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;saikumargurajalaa&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/saikumargurajalaa1/python.git&quot;,\r\n    &quot;accountId&quot;: &quot;203baa50-350d-44de-b4b9-c6af8a58f5e4&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3D1HDXbvB695OvF7J1zfyrP0Ii0\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n    <ConfirmationsSetting value=\"2\" id=\"Remove\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"Python.1 to 10.executor\": \"Run\",\r\n    \"Python.1.executor\": \"Run\",\r\n    \"Python.11.executor\": \"Run\",\r\n    \"Python.123.executor\": \"Run\",\r\n    \"Python.2.executor\": \"Run\",\r\n    \"Python.3.executor\": \"Run\",\r\n    \"Python.4.executor\": \"Run\",\r\n    \"Python.add.executor\": \"Run\",\r\n    \"Python.age.executor\": \"Run\",\r\n    \"Python.area of rectangle.executor\": \"Run\",\r\n    \"Python.area of square.executor\": \"Run\",\r\n    \"Python.area of triangle.executor\": \"Run\",\r\n    \"Python.areaOfRectangle.executor\": \"Run\",\r\n    \"Python.asd.executor\": \"Run\",\r\n    \"Python.biggest of three.executor\": \"Run\",\r\n    \"Python.calling one in another.executor\": \"Run\",\r\n    \"Python.def.executor\": \"Run\",\r\n    \"Python.divisibility check.executor\": \"Run\",\r\n    \"Python.even no from n.executor\": \"Run\",\r\n    \"Python.even no upto n.executor\": \"Run\",\r\n    \"Python.even no.executor\": \"Run\",\r\n    \"Python.even or odd.executor\": \"Run\",\r\n    \"Python.in desc from 10.executor\": \"Run\",\r\n    \"Python.largest of two numbers using if_else.executor\": \"Run\",\r\n    \"Python.leap year or not.executor\": \"Run\",\r\n    \"Python.main.executor\": \"Run\",\r\n    \"Python.n_times.executor\": \"Run\",\r\n    \"Python.natural no from n.executor\": \"Run\",\r\n    \"Python.natural no in desc order.executor\": \"Run\",\r\n    \"Python.natural_numbers.executor\": \"Run\",\r\n    \"Python.nested for.executor\": \"Run\",\r\n    \"Python.odd no from n.executor\": \"Run\",\r\n    \"Python.odd no upto 10.executor\": \"Run\",\r\n    \"Python.odd num.executor\": \"Run\",\r\n    \"Python.para,meters and arguments.executor\": \"Run\",\r\n    \"Python.para.executor\": \"Run\",\r\n    \"Python.parameters and arguments.executor\": \"Run\",\r\n    \"Python.pass or fail.executor\": \"Run\",\r\n    \"Python.pattern2.executor\": \"Run\",\r\n    \"Python.pattern3.executor\": \"Run\",\r\n    \"Python.pattern_1.executor\": \"Run\",\r\n    \"Python.perimeter of circle.executor\": \"Run\",\r\n    \"Python.perimeter of triangle.executor\": \"Run\",\r\n    \"Python.positive or negative or zero.executor\": \"Run\",\r\n    \"Python.positive or negative.executor\": \"Run\",\r\n    \"Python.power bill.executor\": \"Run\",\r\n    \"Python.print i patterns.executor\": \"Run\",\r\n    \"Python.print i.executor\": \"Run\",\r\n    \"Python.print j.executor\": \"Run\",\r\n    \"Python.print n.executor\": \"Run\",\r\n    \"Python.print upto 10.executor\": \"Run\",\r\n    \"Python.print week day based on user choice.executor\": \"Run\",\r\n    \"Python.print_name_5_times.executor\": \"Run\",\r\n    \"Python.printj_pattern.executor\": \"Run\",\r\n    \"Python.simple calculator.executor\": \"Run\",\r\n    \"Python.smallest of two numbers.executor\": \"Run\",\r\n    \"Python.square.executor\": \"Run\",\r\n    \"Python.student_grade.executor\": \"Run\",\r\n    \"Python.sub.executor\": \"Run\",\r\n    \"Python.sum of even no.executor\": \"Run\",\r\n    \"Python.sum of four int.executor\": \"Run\",\r\n    \"Python.sum of no in list.executor\": \"Run\",\r\n    \"Python.sum of three int.executor\": \"Run\",\r\n    \"Python.sum of three.executor\": \"Run\",\r\n    \"Python.sum of two int.executor\": \"Run\",\r\n    \"Python.sumOfTwoInt.executor\": \"Run\",\r\n    \"Python.sum_of_three_int.executor\": \"Run\",\r\n    \"Python.sum_of_two_int.executor\": \"Run\",\r\n    \"Python.to check grade.executor\": \"Run\",\r\n    \"Python.to check student class.executor\": \"Run\",\r\n    \"Python.traffic signal.executor\": \"Run\",\r\n    \"Python.usinf list.executor\": \"Run\",\r\n    \"Python.using list.executor\": \"Run\",\r\n    \"Python.vowel or consonant.executor\": \"Run\",\r\n    \"Python.vowels or consonents.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"git-widget-placeholder\": \"1-to\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"project.propVCSSupport.Confirmation\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"PyDebuggerOptionsProvider\">\r\n    <option name=\"myDebuggerBackend\" value=\"DEBUGPY\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\saikumar\\PycharmProjects\\sai\\if_else\" />\r\n      <recent name=\"C:\\Users\\saikumar\\PycharmProjects\\sai\\sa1\" />\r\n      <recent name=\"C:\\Users\\saikumar\\PycharmProjects\\sai\\sa19\" />\r\n      <recent name=\"C:\\Users\\saikumar\\PycharmProjects\\sai\\sai1\" />\r\n      <recent name=\"C:\\Users\\saikumar\\PycharmProjects\\sai\\area of circle\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task id=\"Default\" summary=\"Default task\">\r\n      <branch name=\"master\" repository=\"C:\\Users\\saikumar\\PycharmProjects\\sai\" />\r\n      <changelist id=\"9191aac6-0ce7-4c8b-82f5-f01825228bf5\" name=\"Changes\" comment=\"\" />\r\n      <created>1777442536586</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1778307820846</updated>\r\n      <workItem from=\"1777442537585\" duration=\"12249000\" />\r\n      <workItem from=\"1777527382053\" duration=\"5738000\" />\r\n      <workItem from=\"1777620708272\" duration=\"1673000\" />\r\n      <workItem from=\"1777650931124\" duration=\"2998000\" />\r\n      <workItem from=\"1777702455327\" duration=\"5370000\" />\r\n      <workItem from=\"1777822153337\" duration=\"2456000\" />\r\n      <workItem from=\"1777872962713\" duration=\"9714000\" />\r\n      <workItem from=\"1777997753998\" duration=\"3493000\" />\r\n      <workItem from=\"1778045518621\" duration=\"4303000\" />\r\n      <workItem from=\"1778083545715\" duration=\"656000\" />\r\n      <workItem from=\"1778084219629\" duration=\"663000\" />\r\n      <workItem from=\"1778135631445\" duration=\"6918000\" />\r\n      <workItem from=\"1778216103330\" duration=\"378000\" />\r\n      <workItem from=\"1778221044760\" duration=\"3861000\" />\r\n      <workItem from=\"1778307363069\" duration=\"456000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"First commit: Problem solving - 1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1777479700339</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1777479700339</updated>\r\n    </task>\r\n    <task active=\"true\" id=\"LOCAL-00002\" summary=\"1 to 10\">\r\n      <branch name=\"master\" repository=\"C:\\Users\\saikumar\\PycharmProjects\\sai\" original=\"true\" />\r\n      <branch name=\"1-to\" repository=\"C:\\Users\\saikumar\\PycharmProjects\\sai\" />\r\n      <changelist id=\"2f31b0b4-81d3-4374-bed5-b45b2670bb66\" name=\"1 to 10\" comment=\"\" />\r\n      <created>1778307816592</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1778307820846</updated>\r\n      <workItem from=\"1778307821653\" duration=\"4583000\" />\r\n      <workItem from=\"1778481795237\" duration=\"1038000\" />\r\n      <workItem from=\"1778482849211\" duration=\"6120000\" />\r\n      <workItem from=\"1778648668768\" duration=\"6084000\" />\r\n      <workItem from=\"1778739067559\" duration=\"5106000\" />\r\n      <workItem from=\"1778765407720\" duration=\"857000\" />\r\n      <workItem from=\"1778766278932\" duration=\"1633000\" />\r\n      <workItem from=\"1778825870290\" duration=\"5199000\" />\r\n      <workItem from=\"1778858701721\" duration=\"2545000\" />\r\n      <workItem from=\"1778911718446\" duration=\"686000\" />\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"First commit: Problem solving - 1\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"First commit: Problem solving - 1\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <default-breakpoints>\r\n        <breakpoint type=\"python-exception\">\r\n          <properties notifyOnTerminate=\"true\" exception=\"BaseException\">\r\n            <option name=\"notifyOnTerminate\" value=\"true\" />\r\n          </properties>\r\n        </breakpoint>\r\n      </default-breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/sai$divisibility_check.coverage\" NAME=\"divisibility check Coverage Results\" MODIFIED=\"1778000954410\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/else_if\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$largest_of_two_numbers_using_if_else.coverage\" NAME=\"largest of two numbers using if_else Coverage Results\" MODIFIED=\"1777621771287\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/sa19\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$print_week_day_based_on_user_choice.coverage\" NAME=\"print week day based on user choice Coverage Results\" MODIFIED=\"1777880623077\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/else_if\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$positive_or_negative.coverage\" NAME=\"positive or negative Coverage Results\" MODIFIED=\"1778742352745\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/if_else\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$parameters_and_arguments.coverage\" NAME=\"parameters and arguments Coverage Results\" MODIFIED=\"1778827010806\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/functions\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$positive_or_negative_or_zero.coverage\" NAME=\"positive or negative or zero Coverage Results\" MODIFIED=\"1778223751651\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/nested_if\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$sum_of_three.coverage\" NAME=\"sum of three Coverage Results\" MODIFIED=\"1777965904891\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/sai1\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$para.coverage\" NAME=\"para Coverage Results\" MODIFIED=\"1778859069728\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/functions\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$print_n.coverage\" NAME=\"print n Coverage Results\" MODIFIED=\"1778482979091\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/nested_for\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$natural_no_from_n.coverage\" NAME=\"natural no from n Coverage Results\" MODIFIED=\"1778223954757\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/while\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$sumOfTwoInt.coverage\" NAME=\"sumOfTwoInt Coverage Results\" MODIFIED=\"1777527421455\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/perimeter of rectangle\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$3.coverage\" NAME=\"3 Coverage Results\" MODIFIED=\"1778139430309\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/while\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$in_desc_from_10.coverage\" NAME=\"in desc from 10 Coverage Results\" MODIFIED=\"1778308002232\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/for loop\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$traffic_signal.coverage\" NAME=\"traffic signal Coverage Results\" MODIFIED=\"1777999071435\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/else_if\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$main.coverage\" NAME=\"main Coverage Results\" MODIFIED=\"1777527597291\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$nested_for.coverage\" NAME=\"nested for Coverage Results\" MODIFIED=\"1778482111739\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$def.coverage\" NAME=\"def Coverage Results\" MODIFIED=\"1778740515622\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/functions\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$vowel_or_consonant.coverage\" NAME=\"vowel or consonant Coverage Results\" MODIFIED=\"1777709495613\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/sai8\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$print_i_patterns.coverage\" NAME=\"print i patterns Coverage Results\" MODIFIED=\"1778652366096\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/nested_for\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$para_meters_and_arguments.coverage\" NAME=\"para,meters and arguments Coverage Results\" MODIFIED=\"1778826644038\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/functions\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$natural_numbers.coverage\" NAME=\"natural_numbers Coverage Results\" MODIFIED=\"1778224076606\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/while\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$smallest_of_two_numbers.coverage\" NAME=\"smallest of two numbers Coverage Results\" MODIFIED=\"1777709917212\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/sai8\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$to_check_grade.coverage\" NAME=\"to check grade Coverage Results\" MODIFIED=\"1777879904020\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/else_if\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$2.coverage\" NAME=\"2 Coverage Results\" MODIFIED=\"1778136804347\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/while\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$square.coverage\" NAME=\"square Coverage Results\" MODIFIED=\"1777470477540\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/sai8\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$odd_no_from_n.coverage\" NAME=\"odd no from n Coverage Results\" MODIFIED=\"1778221561887\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/while\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$n_times.coverage\" NAME=\"n_times Coverage Results\" MODIFIED=\"1778135971120\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/while\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$to_check_student_class.coverage\" NAME=\"to check student class Coverage Results\" MODIFIED=\"1777881458085\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/else_if\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$odd_num.coverage\" NAME=\"odd num Coverage Results\" MODIFIED=\"1778307943561\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/for loop\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$123.coverage\" NAME=\"123 Coverage Results\" MODIFIED=\"1778776106518\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/if_else\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$using_list.coverage\" NAME=\"using list Coverage Results\" MODIFIED=\"1778310245592\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/for loop\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$perimeter_of_circle.coverage\" NAME=\"perimeter of circle Coverage Results\" MODIFIED=\"1777469553121\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/area of circle\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$sum_of_three_int.coverage\" NAME=\"sum_of_three_int Coverage Results\" MODIFIED=\"1777965848408\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/sai4\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$student_grade.coverage\" NAME=\"student_grade Coverage Results\" MODIFIED=\"1778170361282\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/nested_if\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$add.coverage\" NAME=\"add Coverage Results\" MODIFIED=\"1778766406599\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/functions\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$perimeter_of_triangle.coverage\" NAME=\"perimeter of triangle Coverage Results\" MODIFIED=\"1777965735038\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/sai6\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$pass_or_fail.coverage\" NAME=\"pass or fail Coverage Results\" MODIFIED=\"1777879505288\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/else_if\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$natural_no_in_desc_order.coverage\" NAME=\"natural no in desc order Coverage Results\" MODIFIED=\"1778221163963\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/while\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$even_no_from_n.coverage\" NAME=\"even no from n Coverage Results\" MODIFIED=\"1778221418292\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/while\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$area_of_triangle.coverage\" NAME=\"area of triangle Coverage Results\" MODIFIED=\"1777468294597\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/sai6\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$1.coverage\" NAME=\"1 Coverage Results\" MODIFIED=\"1778222538699\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/123\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$4.coverage\" NAME=\"4 Coverage Results\" MODIFIED=\"1778216462564\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/while\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$11.coverage\" NAME=\"11 Coverage Results\" MODIFIED=\"1777703195954\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/sa19\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$print_j.coverage\" NAME=\"print j Coverage Results\" MODIFIED=\"1778657619077\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/nested_for\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$pattern_1.coverage\" NAME=\"pattern_1 Coverage Results\" MODIFIED=\"1778649005780\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/nested_for\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$even_no.coverage\" NAME=\"even no Coverage Results\" MODIFIED=\"1778307971899\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/for loop\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$even_or_odd.coverage\" NAME=\"even or odd Coverage Results\" MODIFIED=\"1778172118907\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/nested_if\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$pattern2.coverage\" NAME=\"pattern2 Coverage Results\" MODIFIED=\"1778657583638\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/nested_for\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$calling_one_in_another.coverage\" NAME=\"calling one in another Coverage Results\" MODIFIED=\"1778912399291\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/functions\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$usinf_list.coverage\" NAME=\"usinf list Coverage Results\" MODIFIED=\"1778309147030\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/for loop\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$print_name_5_times.coverage\" NAME=\"print_name_5_times Coverage Results\" MODIFIED=\"1778135763048\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/while\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$even_no_upto_n.coverage\" NAME=\"even no upto n Coverage Results\" MODIFIED=\"1778222165270\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/while\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$sum_of_no_in_list.coverage\" NAME=\"sum of no in list Coverage Results\" MODIFIED=\"1778481907516\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/for loop\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$printj_pattern.coverage\" NAME=\"printj_pattern Coverage Results\" MODIFIED=\"1778651865803\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/nested_for\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$areaOfRectangle.coverage\" NAME=\"areaOfRectangle Coverage Results\" MODIFIED=\"1777534536970\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/perimeter of rectangle\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$area_of_rectangle.coverage\" NAME=\"area of rectangle Coverage Results\" MODIFIED=\"1777469911168\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/perimeter of rectangle\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$simple_calculator.coverage\" NAME=\"simple calculator Coverage Results\" MODIFIED=\"1777998208942\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/sa19\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$age.coverage\" NAME=\"age Coverage Results\" MODIFIED=\"1777998466928\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/sa19\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$asd.coverage\" NAME=\"asd Coverage Results\" MODIFIED=\"1778767706888\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/functions\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$leap_year_or_not.coverage\" NAME=\"leap year or not Coverage Results\" MODIFIED=\"1778053756003\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/if_else\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$sub.coverage\" NAME=\"sub Coverage Results\" MODIFIED=\"1778739951569\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/functions\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$odd_no_upto_10.coverage\" NAME=\"odd no upto 10 Coverage Results\" MODIFIED=\"1778222745094\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/while\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$sum_of_even_no.coverage\" NAME=\"sum of even no Coverage Results\" MODIFIED=\"1778482039444\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/for loop\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$print_i.coverage\" NAME=\"print i Coverage Results\" MODIFIED=\"1778482968008\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/nested_for\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$sum_of_two_int.coverage\" NAME=\"sum_of_two_int Coverage Results\" MODIFIED=\"1777470110818\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/perimeter of rectangle\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$biggest_of_three.coverage\" NAME=\"biggest of three Coverage Results\" MODIFIED=\"1777958189029\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/else_if\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$sum_of_four_int.coverage\" NAME=\"sum of four int Coverage Results\" MODIFIED=\"1777469088375\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/area of circle\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$power_bill.coverage\" NAME=\"power bill Coverage Results\" MODIFIED=\"1777962815519\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/else_if\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$area_of_square.coverage\" NAME=\"area of square Coverage Results\" MODIFIED=\"1778482958208\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/sai1\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$print_upto_10.coverage\" NAME=\"print upto 10 Coverage Results\" MODIFIED=\"1778307590734\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/for loop\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$1_to_10.coverage\" NAME=\"1 to 10 Coverage Results\" MODIFIED=\"1778307917526\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/for loop\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$pattern3.coverage\" NAME=\"pattern3 Coverage Results\" MODIFIED=\"1778653232844\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/nested_for\" />\r\n    <SUITE FILE_PATH=\"coverage/sai$vowels_or_consonents.coverage\" NAME=\"vowels or consonents Coverage Results\" MODIFIED=\"1777999587653\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/if_else\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision d501e0a508023ee0e8253ec2064225d07fb58bc6)
++++ b/.idea/workspace.xml	(date 1778912563799)
+@@ -2,7 +2,7 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="2f31b0b4-81d3-4374-bed5-b45b2670bb66" name="1 to 10" comment="1 to 10">
+-      <change beforePath="$PROJECT_DIR$/functions/calling one in another.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/calling one in another.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <list id="9191aac6-0ce7-4c8b-82f5-f01825228bf5" name="Changes" comment="First commit: Problem solving - 1" />
+     <option name="SHOW_DIALOG" value="false" />
+@@ -44,102 +44,99 @@
+ }</component>
+   <component name="ProjectId" id="3D1HDXbvB695OvF7J1zfyrP0Ii0" />
+   <component name="ProjectLevelVcsManager">
+-    <ConfirmationsSetting value="2" id="Add" />
+-    <ConfirmationsSetting value="2" id="Remove" />
++    <ConfirmationsSetting value="1" id="Add" />
+   </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "Python.1 to 10.executor": "Run",
+-    "Python.1.executor": "Run",
+-    "Python.11.executor": "Run",
+-    "Python.123.executor": "Run",
+-    "Python.2.executor": "Run",
+-    "Python.3.executor": "Run",
+-    "Python.4.executor": "Run",
+-    "Python.add.executor": "Run",
+-    "Python.age.executor": "Run",
+-    "Python.area of rectangle.executor": "Run",
+-    "Python.area of square.executor": "Run",
+-    "Python.area of triangle.executor": "Run",
+-    "Python.areaOfRectangle.executor": "Run",
+-    "Python.asd.executor": "Run",
+-    "Python.biggest of three.executor": "Run",
+-    "Python.calling one in another.executor": "Run",
+-    "Python.def.executor": "Run",
+-    "Python.divisibility check.executor": "Run",
+-    "Python.even no from n.executor": "Run",
+-    "Python.even no upto n.executor": "Run",
+-    "Python.even no.executor": "Run",
+-    "Python.even or odd.executor": "Run",
+-    "Python.in desc from 10.executor": "Run",
+-    "Python.largest of two numbers using if_else.executor": "Run",
+-    "Python.leap year or not.executor": "Run",
+-    "Python.main.executor": "Run",
+-    "Python.n_times.executor": "Run",
+-    "Python.natural no from n.executor": "Run",
+-    "Python.natural no in desc order.executor": "Run",
+-    "Python.natural_numbers.executor": "Run",
+-    "Python.nested for.executor": "Run",
+-    "Python.odd no from n.executor": "Run",
+-    "Python.odd no upto 10.executor": "Run",
+-    "Python.odd num.executor": "Run",
+-    "Python.para,meters and arguments.executor": "Run",
+-    "Python.para.executor": "Run",
+-    "Python.parameters and arguments.executor": "Run",
+-    "Python.pass or fail.executor": "Run",
+-    "Python.pattern2.executor": "Run",
+-    "Python.pattern3.executor": "Run",
+-    "Python.pattern_1.executor": "Run",
+-    "Python.perimeter of circle.executor": "Run",
+-    "Python.perimeter of triangle.executor": "Run",
+-    "Python.positive or negative or zero.executor": "Run",
+-    "Python.positive or negative.executor": "Run",
+-    "Python.power bill.executor": "Run",
+-    "Python.print i patterns.executor": "Run",
+-    "Python.print i.executor": "Run",
+-    "Python.print j.executor": "Run",
+-    "Python.print n.executor": "Run",
+-    "Python.print upto 10.executor": "Run",
+-    "Python.print week day based on user choice.executor": "Run",
+-    "Python.print_name_5_times.executor": "Run",
+-    "Python.printj_pattern.executor": "Run",
+-    "Python.simple calculator.executor": "Run",
+-    "Python.smallest of two numbers.executor": "Run",
+-    "Python.square.executor": "Run",
+-    "Python.student_grade.executor": "Run",
+-    "Python.sub.executor": "Run",
+-    "Python.sum of even no.executor": "Run",
+-    "Python.sum of four int.executor": "Run",
+-    "Python.sum of no in list.executor": "Run",
+-    "Python.sum of three int.executor": "Run",
+-    "Python.sum of three.executor": "Run",
+-    "Python.sum of two int.executor": "Run",
+-    "Python.sumOfTwoInt.executor": "Run",
+-    "Python.sum_of_three_int.executor": "Run",
+-    "Python.sum_of_two_int.executor": "Run",
+-    "Python.to check grade.executor": "Run",
+-    "Python.to check student class.executor": "Run",
+-    "Python.traffic signal.executor": "Run",
+-    "Python.usinf list.executor": "Run",
+-    "Python.using list.executor": "Run",
+-    "Python.vowel or consonant.executor": "Run",
+-    "Python.vowels or consonents.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+-    "codeWithMe.voiceChat.enabledByDefault": "false",
+-    "git-widget-placeholder": "1-to",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;Python.1 to 10.executor&quot;: &quot;Run&quot;,
++    &quot;Python.1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.11.executor&quot;: &quot;Run&quot;,
++    &quot;Python.123.executor&quot;: &quot;Run&quot;,
++    &quot;Python.2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.4.executor&quot;: &quot;Run&quot;,
++    &quot;Python.add.executor&quot;: &quot;Run&quot;,
++    &quot;Python.age.executor&quot;: &quot;Run&quot;,
++    &quot;Python.area of rectangle.executor&quot;: &quot;Run&quot;,
++    &quot;Python.area of square.executor&quot;: &quot;Run&quot;,
++    &quot;Python.area of triangle.executor&quot;: &quot;Run&quot;,
++    &quot;Python.areaOfRectangle.executor&quot;: &quot;Run&quot;,
++    &quot;Python.asd.executor&quot;: &quot;Run&quot;,
++    &quot;Python.biggest of three.executor&quot;: &quot;Run&quot;,
++    &quot;Python.def.executor&quot;: &quot;Run&quot;,
++    &quot;Python.divisibility check.executor&quot;: &quot;Run&quot;,
++    &quot;Python.even no from n.executor&quot;: &quot;Run&quot;,
++    &quot;Python.even no upto n.executor&quot;: &quot;Run&quot;,
++    &quot;Python.even no.executor&quot;: &quot;Run&quot;,
++    &quot;Python.even or odd.executor&quot;: &quot;Run&quot;,
++    &quot;Python.in desc from 10.executor&quot;: &quot;Run&quot;,
++    &quot;Python.largest of two numbers using if_else.executor&quot;: &quot;Run&quot;,
++    &quot;Python.leap year or not.executor&quot;: &quot;Run&quot;,
++    &quot;Python.main.executor&quot;: &quot;Run&quot;,
++    &quot;Python.n_times.executor&quot;: &quot;Run&quot;,
++    &quot;Python.natural no from n.executor&quot;: &quot;Run&quot;,
++    &quot;Python.natural no in desc order.executor&quot;: &quot;Run&quot;,
++    &quot;Python.natural_numbers.executor&quot;: &quot;Run&quot;,
++    &quot;Python.nested for.executor&quot;: &quot;Run&quot;,
++    &quot;Python.odd no from n.executor&quot;: &quot;Run&quot;,
++    &quot;Python.odd no upto 10.executor&quot;: &quot;Run&quot;,
++    &quot;Python.odd num.executor&quot;: &quot;Run&quot;,
++    &quot;Python.para,meters and arguments.executor&quot;: &quot;Run&quot;,
++    &quot;Python.para.executor&quot;: &quot;Run&quot;,
++    &quot;Python.parameters and arguments.executor&quot;: &quot;Run&quot;,
++    &quot;Python.pass or fail.executor&quot;: &quot;Run&quot;,
++    &quot;Python.pattern2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.pattern3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.pattern_1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.perimeter of circle.executor&quot;: &quot;Run&quot;,
++    &quot;Python.perimeter of triangle.executor&quot;: &quot;Run&quot;,
++    &quot;Python.positive or negative or zero.executor&quot;: &quot;Run&quot;,
++    &quot;Python.positive or negative.executor&quot;: &quot;Run&quot;,
++    &quot;Python.power bill.executor&quot;: &quot;Run&quot;,
++    &quot;Python.print i patterns.executor&quot;: &quot;Run&quot;,
++    &quot;Python.print i.executor&quot;: &quot;Run&quot;,
++    &quot;Python.print j.executor&quot;: &quot;Run&quot;,
++    &quot;Python.print n.executor&quot;: &quot;Run&quot;,
++    &quot;Python.print upto 10.executor&quot;: &quot;Run&quot;,
++    &quot;Python.print week day based on user choice.executor&quot;: &quot;Run&quot;,
++    &quot;Python.print_name_5_times.executor&quot;: &quot;Run&quot;,
++    &quot;Python.printj_pattern.executor&quot;: &quot;Run&quot;,
++    &quot;Python.simple calculator.executor&quot;: &quot;Run&quot;,
++    &quot;Python.smallest of two numbers.executor&quot;: &quot;Run&quot;,
++    &quot;Python.square.executor&quot;: &quot;Run&quot;,
++    &quot;Python.student_grade.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sub.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sum of even no.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sum of four int.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sum of no in list.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sum of three int.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sum of three.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sum of two int.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sumOfTwoInt.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sum_of_three_int.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sum_of_two_int.executor&quot;: &quot;Run&quot;,
++    &quot;Python.to check grade.executor&quot;: &quot;Run&quot;,
++    &quot;Python.to check student class.executor&quot;: &quot;Run&quot;,
++    &quot;Python.traffic signal.executor&quot;: &quot;Run&quot;,
++    &quot;Python.usinf list.executor&quot;: &quot;Run&quot;,
++    &quot;Python.using list.executor&quot;: &quot;Run&quot;,
++    &quot;Python.vowel or consonant.executor&quot;: &quot;Run&quot;,
++    &quot;Python.vowels or consonents.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
++    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;1-to&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="PyDebuggerOptionsProvider">
+     <option name="myDebuggerBackend" value="DEBUGPY" />
+   </component>
+@@ -208,8 +205,7 @@
+       <workItem from="1778765407720" duration="857000" />
+       <workItem from="1778766278932" duration="1633000" />
+       <workItem from="1778825870290" duration="5199000" />
+-      <workItem from="1778858701721" duration="2545000" />
+-      <workItem from="1778911718446" duration="686000" />
++      <workItem from="1778858701721" duration="386000" />
+     </task>
+     <option name="localTasksCounter" value="3" />
+     <servers />
+@@ -251,7 +247,7 @@
+     <SUITE FILE_PATH="coverage/sai$parameters_and_arguments.coverage" NAME="parameters and arguments Coverage Results" MODIFIED="1778827010806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
+     <SUITE FILE_PATH="coverage/sai$positive_or_negative_or_zero.coverage" NAME="positive or negative or zero Coverage Results" MODIFIED="1778223751651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_if" />
+     <SUITE FILE_PATH="coverage/sai$sum_of_three.coverage" NAME="sum of three Coverage Results" MODIFIED="1777965904891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sai1" />
+-    <SUITE FILE_PATH="coverage/sai$para.coverage" NAME="para Coverage Results" MODIFIED="1778859069728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
++    <SUITE FILE_PATH="coverage/sai$para.coverage" NAME="para Coverage Results" MODIFIED="1778830348132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
+     <SUITE FILE_PATH="coverage/sai$print_n.coverage" NAME="print n Coverage Results" MODIFIED="1778482979091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_for" />
+     <SUITE FILE_PATH="coverage/sai$natural_no_from_n.coverage" NAME="natural no from n Coverage Results" MODIFIED="1778223954757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while" />
+     <SUITE FILE_PATH="coverage/sai$sumOfTwoInt.coverage" NAME="sumOfTwoInt Coverage Results" MODIFIED="1777527421455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/perimeter of rectangle" />
+@@ -292,7 +288,6 @@
+     <SUITE FILE_PATH="coverage/sai$even_no.coverage" NAME="even no Coverage Results" MODIFIED="1778307971899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for loop" />
+     <SUITE FILE_PATH="coverage/sai$even_or_odd.coverage" NAME="even or odd Coverage Results" MODIFIED="1778172118907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_if" />
+     <SUITE FILE_PATH="coverage/sai$pattern2.coverage" NAME="pattern2 Coverage Results" MODIFIED="1778657583638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_for" />
+-    <SUITE FILE_PATH="coverage/sai$calling_one_in_another.coverage" NAME="calling one in another Coverage Results" MODIFIED="1778912399291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
+     <SUITE FILE_PATH="coverage/sai$usinf_list.coverage" NAME="usinf list Coverage Results" MODIFIED="1778309147030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for loop" />
+     <SUITE FILE_PATH="coverage/sai$print_name_5_times.coverage" NAME="print_name_5_times Coverage Results" MODIFIED="1778135763048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while" />
+     <SUITE FILE_PATH="coverage/sai$even_no_upto_n.coverage" NAME="even no upto n Coverage Results" MODIFIED="1778222165270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while" />
