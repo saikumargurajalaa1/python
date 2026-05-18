@@ -12,9 +12,9 @@
 
 class aa():
     name="ram"
-    val=10
+    val=10 #golabal var
     def add(self,x,y):
-        num=20
+        num=20 #local var
         print("add(param)=",x+y)
         print("add(param+global)=",x+y+self.val)
         print("add(param+global+local)=",x+y+self.val+num)
