@@ -52,11 +52,30 @@
 
 # without return
 
+# class sai():
+#     def add(self,*args):
+#         s=0
+#         for i in args:
+#             s=s+i
+#         print(s)
+# x=sai()
+# x.add(2,3,4,5,6)
+
+# calling function in class
+
 class sai():
-    def add(self,*args):
-        s=0
-        for i in args:
-            s=s+i
-        print(s)
+    def kumar(self):
+        print("2")
+        self.piano()
+        self.nano()
+    def nano(self):
+        print("3")
+    def piano(self):
+        print("4")
+
+
 x=sai()
-x.add(2,3,4,5,6)
+x.kumar()
+
+
+
