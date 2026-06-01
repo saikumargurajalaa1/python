@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f31b0b4-81d3-4374-bed5-b45b2670bb66" name="1 to 10" comment="1 to 10">
-      <change afterPath="$PROJECT_DIR$/project/db connector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/emp reg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/registration.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/db connector.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/db connector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/new 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/new 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/new_reg.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/new_reg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/registration.py" afterDir="false" />
     </list>
     <list id="9191aac6-0ce7-4c8b-82f5-f01825228bf5" name="Changes" comment="First commit: Problem solving - 1" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +87,7 @@
     "Python.const in inher.executor": "Run",
     "Python.constructor.executor": "Run",
     "Python.db connection.executor": "Run",
+    "Python.db connector.executor": "Run",
     "Python.db.executor": "Run",
     "Python.def.executor": "Run",
     "Python.divisibility check.executor": "Run",
@@ -109,7 +110,9 @@
     "Python.natural no in desc order.executor": "Run",
     "Python.natural_numbers.executor": "Run",
     "Python.nested for.executor": "Run",
+    "Python.new 1.executor": "Run",
     "Python.new.executor": "Run",
+    "Python.new_reg.executor": "Run",
     "Python.odd no from n.executor": "Run",
     "Python.odd no upto 10.executor": "Run",
     "Python.odd num.executor": "Run",

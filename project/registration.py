@@ -26,7 +26,6 @@ def register_employee():
     # Validation to make sure fields aren't empty
     emp_id = emp_id_entry.get().strip()
     emp_name = emp_name_entry.get().strip()
-    emp_dept = emp_dept_entry.get().strip()
 
     if not emp_id or not emp_name:
         messagebox.showwarning("Input Error", "All fields are required!")
@@ -36,7 +35,7 @@ def register_employee():
     if conn:
         try:
             cursor = conn.cursor()
-            query = "INSERT INTO emp (id,name,department) VALUES (%s, %s)"
+            query = "INSERT INTO emp (id,name) VALUES (%s, %s)"
 
             # Python gets data as strings. If your DB expects an INT for ID, we cast it here:
             try:
@@ -109,33 +108,26 @@ emp_name_label.grid(row=1, column=0, padx=5, pady=5, sticky="w")
 emp_name_entry = tk.Entry(root)
 emp_name_entry.grid(row=1, column=1, padx=5, pady=5)
 
-emp_dept_label = tk.Label(root, text="Employee Department:")
-emp_dept_label.grid(row=2, column=0, padx=5, pady=5, sticky="w")
-emp_dept_entry = tk.Entry(root)
-emp_dept_entry.grid(row=2, column=1, padx=5, pady=5)
-
 # Register button
 register_button = tk.Button(root, text="Register", command=register_employee)
-register_button.grid(row=3, column=0, columnspan=2, padx=5, pady=10)
+register_button.grid(row=2, column=0, columnspan=2, padx=5, pady=10)
 
 # Search label and entry
 search_label = tk.Label(root, text="Search by Employee ID:")
-search_label.grid(row=4, column=0, padx=5, pady=5, sticky="w")
+search_label.grid(row=3, column=0, padx=5, pady=5, sticky="w")
 search_entry = tk.Entry(root)
-search_entry.grid(row=4, column=1, padx=5, pady=5)
+search_entry.grid(row=3, column=1, padx=5, pady=5)
 
 # Search button
 search_button = tk.Button(root, text="Search", command=search_employee)
-search_button.grid(row=5, column=0, columnspan=2, padx=5, pady=10)
+search_button.grid(row=4, column=0, columnspan=2, padx=5, pady=10)
 
 # Treeview to display search results
-tree = ttk.Treeview(root, columns=("Employee ID", "Employee Name","Employee dept"), show="headings")
-tree.column("Employee ID", width=130, anchor="center")
-tree.column("Employee Name", width=130, anchor="center")
-tree.column("Employee dept", width=130, anchor="center")
+tree = ttk.Treeview(root, columns=("Employee ID", "Employee Name"), show="headings")
+tree.column("Employee ID", width=150, anchor="center")
+tree.column("Employee Name", width=200, anchor="center")
 tree.heading("Employee ID", text="Employee ID")
 tree.heading("Employee Name", text="Employee Name")
-tree.heading("Employee dept", text="Employee Dept")
-tree.grid(row=6, column=0, columnspan=2, padx=10, pady=10)
+tree.grid(row=5, column=0, columnspan=2, padx=10, pady=10)
 
 root.mainloop()
