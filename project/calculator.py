@@ -14,7 +14,7 @@ def btnEqualIsInput():
     global operator
     sumup = str(eval(operator))
     text_Input.set(sumup)
-    operator = ""
+    operator = sumup
 
 from tkinter import *
 cal=Tk()
@@ -58,5 +58,7 @@ Equals=Button(cal,padx=16,bd=8,fg='black',font=('arial',20,'bold'),text='=',comm
 division=Button(cal,padx=16,bd=8,fg='black',font=('arial',20,'bold'),text='/',command=lambda:btnclick("/")).grid(row=4,column=2)
 
 clearbtn=Button(cal,padx=16,bd=8,fg='black',font=('arial',20,'bold'),text='c',command=btncleardisplay  ).grid(row=4,column=3)
+
+
 
 cal.mainloop()

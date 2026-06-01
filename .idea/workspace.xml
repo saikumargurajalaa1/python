@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f31b0b4-81d3-4374-bed5-b45b2670bb66" name="1 to 10" comment="1 to 10">
-      <change afterPath="$PROJECT_DIR$/project/button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/db connector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/emp reg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/registration.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/calculator.py" afterDir="false" />
     </list>
     <list id="9191aac6-0ce7-4c8b-82f5-f01825228bf5" name="Changes" comment="First commit: Problem solving - 1" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,185 +58,131 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.1 to 10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.111.executor&quot;: &quot;Run&quot;,
-    &quot;Python.123.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ABC.executor&quot;: &quot;Run&quot;,
-    &quot;Python.add.executor&quot;: &quot;Run&quot;,
-    &quot;Python.age.executor&quot;: &quot;Run&quot;,
-    &quot;Python.area of rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.area of square.executor&quot;: &quot;Run&quot;,
-    &quot;Python.area of triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.areaOfRectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.asd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.biggest of three num.executor&quot;: &quot;Run&quot;,
-    &quot;Python.biggest of three.executor&quot;: &quot;Run&quot;,
-    &quot;Python.button.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calling one in another.executor&quot;: &quot;Run&quot;,
-    &quot;Python.class obj.executor&quot;: &quot;Run&quot;,
-    &quot;Python.classes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.const in inher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.def.executor&quot;: &quot;Run&quot;,
-    &quot;Python.divisibility check.executor&quot;: &quot;Run&quot;,
-    &quot;Python.even no from n.executor&quot;: &quot;Run&quot;,
-    &quot;Python.even no upto n.executor&quot;: &quot;Run&quot;,
-    &quot;Python.even no.executor&quot;: &quot;Run&quot;,
-    &quot;Python.even or odd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hirarchial_iniheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hybrid_inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.in desc from 10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.largest of two numbers using if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leap year or not.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.method overloading.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multilevel_inher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multiple_inher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.n_times.executor&quot;: &quot;Run&quot;,
-    &quot;Python.natural no from n.executor&quot;: &quot;Run&quot;,
-    &quot;Python.natural no in desc order.executor&quot;: &quot;Run&quot;,
-    &quot;Python.natural_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nested for.executor&quot;: &quot;Run&quot;,
-    &quot;Python.new.executor&quot;: &quot;Run&quot;,
-    &quot;Python.odd no from n.executor&quot;: &quot;Run&quot;,
-    &quot;Python.odd no upto 10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.odd num.executor&quot;: &quot;Run&quot;,
-    &quot;Python.para,meters and arguments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.para.executor&quot;: &quot;Run&quot;,
-    &quot;Python.parameters and arguments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pass or fail.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pattern3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pattern_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.perimeter of circle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.perimeter of triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.positive or negative or zero.executor&quot;: &quot;Run&quot;,
-    &quot;Python.positive or negative.executor&quot;: &quot;Run&quot;,
-    &quot;Python.power bill.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print i patterns.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print i.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print j.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print n.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print upto 10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print week day based on user choice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_name_5_times.executor&quot;: &quot;Run&quot;,
-    &quot;Python.printj_pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Python.private class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.protected class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.public class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.simple calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.single_inher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.smallest of two numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.square.executor&quot;: &quot;Run&quot;,
-    &quot;Python.student_grade.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sub.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum of even no.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum of four int.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum of no in list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum of three int.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum of three.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum of two int.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sumOfTwoInt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum_of_three_int.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum_of_two_int.executor&quot;: &quot;Run&quot;,
-    &quot;Python.to check grade.executor&quot;: &quot;Run&quot;,
-    &quot;Python.to check student class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.traffic signal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.usinf list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.using list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vowel or consonant.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vowels or consonents.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;1-to&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Confirmation&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1 to 10.executor": "Run",
+    "Python.1.executor": "Run",
+    "Python.11.executor": "Run",
+    "Python.111.executor": "Run",
+    "Python.123.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.ABC.executor": "Run",
+    "Python.add.executor": "Run",
+    "Python.age.executor": "Run",
+    "Python.area of rectangle.executor": "Run",
+    "Python.area of square.executor": "Run",
+    "Python.area of triangle.executor": "Run",
+    "Python.areaOfRectangle.executor": "Run",
+    "Python.asd.executor": "Run",
+    "Python.biggest of three num.executor": "Run",
+    "Python.biggest of three.executor": "Run",
+    "Python.button.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.calling one in another.executor": "Run",
+    "Python.class obj.executor": "Run",
+    "Python.classes.executor": "Run",
+    "Python.const in inher.executor": "Run",
+    "Python.constructor.executor": "Run",
+    "Python.db connection.executor": "Run",
+    "Python.db.executor": "Run",
+    "Python.def.executor": "Run",
+    "Python.divisibility check.executor": "Run",
+    "Python.emp reg.executor": "Run",
+    "Python.even no from n.executor": "Run",
+    "Python.even no upto n.executor": "Run",
+    "Python.even no.executor": "Run",
+    "Python.even or odd.executor": "Run",
+    "Python.hirarchial_iniheritance.executor": "Run",
+    "Python.hybrid_inheritance.executor": "Run",
+    "Python.in desc from 10.executor": "Run",
+    "Python.largest of two numbers using if_else.executor": "Run",
+    "Python.leap year or not.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.method overloading.executor": "Run",
+    "Python.multilevel_inher.executor": "Run",
+    "Python.multiple_inher.executor": "Run",
+    "Python.n_times.executor": "Run",
+    "Python.natural no from n.executor": "Run",
+    "Python.natural no in desc order.executor": "Run",
+    "Python.natural_numbers.executor": "Run",
+    "Python.nested for.executor": "Run",
+    "Python.new.executor": "Run",
+    "Python.odd no from n.executor": "Run",
+    "Python.odd no upto 10.executor": "Run",
+    "Python.odd num.executor": "Run",
+    "Python.para,meters and arguments.executor": "Run",
+    "Python.para.executor": "Run",
+    "Python.parameters and arguments.executor": "Run",
+    "Python.pass or fail.executor": "Run",
+    "Python.pattern2.executor": "Run",
+    "Python.pattern3.executor": "Run",
+    "Python.pattern_1.executor": "Run",
+    "Python.perimeter of circle.executor": "Run",
+    "Python.perimeter of triangle.executor": "Run",
+    "Python.positive or negative or zero.executor": "Run",
+    "Python.positive or negative.executor": "Run",
+    "Python.power bill.executor": "Run",
+    "Python.print i patterns.executor": "Run",
+    "Python.print i.executor": "Run",
+    "Python.print j.executor": "Run",
+    "Python.print n.executor": "Run",
+    "Python.print upto 10.executor": "Run",
+    "Python.print week day based on user choice.executor": "Run",
+    "Python.print_name_5_times.executor": "Run",
+    "Python.printj_pattern.executor": "Run",
+    "Python.private class.executor": "Run",
+    "Python.protected class.executor": "Run",
+    "Python.public class.executor": "Run",
+    "Python.registration.executor": "Run",
+    "Python.simple calculator.executor": "Run",
+    "Python.single_inher.executor": "Run",
+    "Python.smallest of two numbers.executor": "Run",
+    "Python.square.executor": "Run",
+    "Python.student_grade.executor": "Run",
+    "Python.sub.executor": "Run",
+    "Python.sum of even no.executor": "Run",
+    "Python.sum of four int.executor": "Run",
+    "Python.sum of no in list.executor": "Run",
+    "Python.sum of three int.executor": "Run",
+    "Python.sum of three.executor": "Run",
+    "Python.sum of two int.executor": "Run",
+    "Python.sumOfTwoInt.executor": "Run",
+    "Python.sum_of_three_int.executor": "Run",
+    "Python.sum_of_two_int.executor": "Run",
+    "Python.to check grade.executor": "Run",
+    "Python.to check student class.executor": "Run",
+    "Python.traffic signal.executor": "Run",
+    "Python.usinf list.executor": "Run",
+    "Python.using list.executor": "Run",
+    "Python.vowel or consonant.executor": "Run",
+    "Python.vowels or consonents.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "1-to",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="PyDebuggerOptionsProvider">
     <option name="myDebuggerBackend" value="DEBUGPY" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\saikumar\PycharmProjects\sai\project" />
       <recent name="C:\Users\saikumar\PycharmProjects\sai\if_else" />
       <recent name="C:\Users\saikumar\PycharmProjects\sai\sa1" />
       <recent name="C:\Users\saikumar\PycharmProjects\sai\sa19" />
       <recent name="C:\Users\saikumar\PycharmProjects\sai\sai1" />
-      <recent name="C:\Users\saikumar\PycharmProjects\sai\area of circle" />
     </key>
-  </component>
-  <component name="RunManager" selected="Python.calculator">
-    <configuration name="button" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="sai" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/button.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="sai" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/calculator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.calculator" />
-        <item itemvalue="Python.button" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -315,7 +263,7 @@
       <workItem from="1779776518820" duration="4659000" />
       <workItem from="1779863094417" duration="5050000" />
       <workItem from="1779896772345" duration="69000" />
-      <workItem from="1779942529464" duration="2667000" />
+      <workItem from="1779942529464" duration="7539000" />
     </task>
     <task id="LOCAL-00003" summary="1 to 10">
       <option name="closed" value="true" />
@@ -446,7 +394,7 @@
     <SUITE FILE_PATH="coverage/sai$power_bill.coverage" NAME="power bill Coverage Results" MODIFIED="1777962815519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/else_if" />
     <SUITE FILE_PATH="coverage/sai$area_of_square.coverage" NAME="area of square Coverage Results" MODIFIED="1778482958208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sai1" />
     <SUITE FILE_PATH="coverage/sai$print_upto_10.coverage" NAME="print upto 10 Coverage Results" MODIFIED="1778307590734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for loop" />
-    <SUITE FILE_PATH="coverage/sai$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1779948239341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/sai$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1779951717116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
     <SUITE FILE_PATH="coverage/sai$1_to_10.coverage" NAME="1 to 10 Coverage Results" MODIFIED="1778307917526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for loop" />
     <SUITE FILE_PATH="coverage/sai$public_class.coverage" NAME="public class Coverage Results" MODIFIED="1779518532572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/encapsulation" />
     <SUITE FILE_PATH="coverage/sai$pattern3.coverage" NAME="pattern3 Coverage Results" MODIFIED="1778653232844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_for" />
